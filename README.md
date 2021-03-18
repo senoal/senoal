@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @senoal
+- 👋 Hi, I’m Seno Alrianto
 - 👀 I’m interested in start up
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on software engineer
