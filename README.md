@@ -2,7 +2,7 @@
 - 👀 I’m interested in start up
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on software engineer
-- 📫 How to reach me : salrianto@gmail.com
+- 📫 How to reach me : salrianto@gmail.com / https://www.linkedin.com/in/seno-alrianto-aa2615166/
 
 <!---
 senoal/senoal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
