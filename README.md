@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Seno Alrianto
 - 👀 I’m interested in start up
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on software engineer
+- 💞️ I’m looking to collaborate with business teams and software engineers
 - 📫 How to reach me : salrianto@gmail.com / https://www.linkedin.com/in/seno-alrianto-aa2615166/
 
 <!---
