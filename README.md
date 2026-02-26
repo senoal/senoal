@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Seno Alrianto
-- 👀 I’m interested in start up
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate with business teams and software engineers
-- 📫 How to reach me : salrianto@gmail.com / https://www.linkedin.com/in/seno-alrianto-aa2615166/
+IT Professional | Data & Automation Strategist | Application Security  
 
-<!---
-senoal/senoal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Experienced in designing and implementing technology solutions that improve operational efficiency, data governance, and system reliability.  
+
+Specialized in:
+- Business process automation & system optimization  
+- Data management and analytics workflows  
+- Secure application development and risk mitigation  
+- Bridging business objectives with scalable technology solutions  
+
+Currently focused on building structured digital ecosystems that integrate automation, analytics, and security best practices.  
+
+📫 Contact:
+Email: sarianto@gmail.com  
+LinkedIn: https://www.linkedin.com/in/seno-arianto-aa2615166/
